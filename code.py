@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 import json
 from aiogram.utils import executor
 from os import path
-TOKEN = '1946562538:AAFfw_CFeOcDRfoLpQdLeWc_4-Y5zvsjh3A'
+TOKEN = ''
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
