@@ -61,5 +61,6 @@ To set up Firebase for your bot, follow these steps:
 
 Contributions are welcome! If you have any improvements, bug fixes, or new features to add, please open a pull request.
 
-Enjoy using your Telegram bot!
+
 ```
+Enjoy using your Telegram bot!
